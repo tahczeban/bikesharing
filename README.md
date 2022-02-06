@@ -5,7 +5,7 @@ https://public.tableau.com/app/profile/tanya.czeban/viz/Citibike_Challenge_16441
 
 
 
-<img width="1440" alt="Intro Generalized Dashboard" src="https://user-images.githubusercontent.com/90135381/152698994-fa4df090-f98c-4170-b645-dc6b9343f7a4.png">
+<img width="1440" alt="Intro Generalized NYC Info" src="https://user-images.githubusercontent.com/90135381/152699136-f474c13a-86b3-4b80-a125-cbef2022af84.png">
 
 
 
