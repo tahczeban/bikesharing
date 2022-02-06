@@ -6,8 +6,7 @@
 ***OVERVIEW***
 
 
-[link to dashboard] https://public.tableau.com/app/profile/tanya.czeban/viz/Citibike_Challenge_16441767677530/D3CitibikeStory?publish=yes
-
+[link to dashboard] https://public.tableau.com/app/profile/tanya.czeban/viz/Citibike_Challenge_16441767677530/UsertypeUsage?publish=yes
 
 
 <img width="1440" alt="Intro Generalized NYC Info" src="https://user-images.githubusercontent.com/90135381/152699136-f474c13a-86b3-4b80-a125-cbef2022af84.png">
