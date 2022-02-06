@@ -8,14 +8,9 @@
 <img width="1440" alt="Intro Generalized NYC Info" src="https://user-images.githubusercontent.com/90135381/152699136-f474c13a-86b3-4b80-a125-cbef2022af84.png">
 
 
-
-
-
-<img width="1440" alt="August Peak Hours" src="https://user-images.githubusercontent.com/90135381/152698997-c3327aa0-ec31-4831-8b20-51dfd16a2233.png">
-
-
-
 <img width="1440" alt="D1:Trip duration Time Change" src="https://user-images.githubusercontent.com/90135381/152699006-3a690f15-1d35-40f3-906d-b9290cbc0af3.png">
+
+
 
 
 
@@ -40,6 +35,8 @@
 
 <img width="1440" alt="D2:User Trips:Gender:Weekday" src="https://user-images.githubusercontent.com/90135381/152699042-12a94f43-35ec-4408-9a26-eed4f63a058b.png">
 
+
+<img width="1440" alt="August Peak Hours" src="https://user-images.githubusercontent.com/90135381/152698997-c3327aa0-ec31-4831-8b20-51dfd16a2233.png">
 
 
 <img width="1440" alt="Rides by Gender" src="https://user-images.githubusercontent.com/90135381/152699687-13838fdd-8cea-4816-883b-e51040fdd14a.png">
