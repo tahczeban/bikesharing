@@ -34,6 +34,8 @@ _______________________________________________________________
 
                             
                                   FIGURE 2: Pandas Trip Duration Time Change
+                                  
+Initial code was written in Pandas to convert the data from integer to datetime to obtain the hours and minutes for the trip durations. 
 
 ***DELIVERABLE 2: Visualizations for the Trip Analysis***
 
