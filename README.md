@@ -73,7 +73,7 @@ In the heatmap depicted in FIGURE: 6, it can be seen that males are the highest 
 
                                   FIGURE 7: User Trips by Gender by Weekday
                                 
-The number of bike trips was further analyzed including gender and usertype. Male subscribers are significantly more participatory in general; however, weekdays, particularly Thursday show the greatest concentration of activity.
+The number of bike trips was further analyzed including gender and usertype. Male subscribers are significantly more participatory in general; however, weekdays, particularly Thursday, show the greatest concentration of activity.
 
 
 ***DELIVERABLE 3: Story and Report for Final Presentation***
