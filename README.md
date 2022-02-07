@@ -13,7 +13,7 @@ Software: Tableau Public, Anaconda/Pandas, Python, Jupyter, VSC
 ______________
 ***OVERVIEW***
 ______________
-
+For complete story interactivity, please visit the Citibike_Challenge link below: 
 [link to Citibike_Challenge](https://public.tableau.com/app/profile/tanya.czeban/viz/Citibike_Challenge_16441767677530/D3CitibikeStory?publish=yes "link to Citibike_Challenge")
 
 <img width="1440" alt="Intro Generalized NYC Info" src="https://user-images.githubusercontent.com/90135381/152699136-f474c13a-86b3-4b80-a125-cbef2022af84.png">
@@ -21,7 +21,6 @@ ______________
                                  FIGURE 1: Dashboard of NYC Citibike Info
 
 The purpose of this analysis was to research and present the Citibike Bike-sharing business visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in Des Moines, Iowa. In total there were 2,344,224 trips for the month of August in 2019. Of those, 1,900,359 were bikesharing subscribers and 443,865 were customers. Average trip duration by age, bike utilization and top NYC starting and ending locations were depicted in the configured Dashboard (FIGURE:1).
-trip duration approximately 5-6 hours
 
 _______________________________________________________________
 ***RESULTS***
@@ -80,7 +79,7 @@ Males subscribers
 
                                   FIGURE 8: Horizontal Bar Chart for August Peak Hours
                                   
-Peak hours are, while non-peak hours fall between 1-5 AM
+Peak hours are 8 AM and between 4 and 7 PM, while non-peak hours fall between 1-5 AM
 
 
 <img width="1440" alt="Rides by Gender" src="https://user-images.githubusercontent.com/90135381/152699687-13838fdd-8cea-4816-883b-e51040fdd14a.png">
@@ -88,16 +87,17 @@ Peak hours are, while non-peak hours fall between 1-5 AM
 
                                   FIGURE 9: Pie Chart for Rides by Gender
                                   
-predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly unknown gender (225,521)
+The pie chart in FIGURE: 9 clearly portrays predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly unknown gender (225,521)
 
 <img width="1440" alt="Usertype Usage" src="https://user-images.githubusercontent.com/90135381/152700152-ca07cc9b-80d8-4f44-b6ff-f65d884861e7.png">
 
                                    FIGURE 10: Bar Chart for Usertype Usage
                                    
-Thursday between 5-7 is peak ride-sharing time
+
 ______________
 ***SUMMARY***
 ______________
 
+In conclusion, as depicted above, it can be ascertained that of the 2,344,224 trips males predominated the bike-sharing service utilization. 
 _____________________________________________________________________________________________________
 ***REFERENCES*** BSC, Google, StackOverflow, GitHub
