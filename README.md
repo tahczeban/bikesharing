@@ -20,7 +20,11 @@ For complete Tableau story interactivity, please visit the following Citibike_Ch
 
                                  FIGURE 1: Dashboard of NYC Citibike Info
 
-The purpose of this analysis was to research and present the Citibike bike-sharing business proposal visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in Des Moines, Iowa. In total there were 2,344,224 trips for the month of August in 2019. Average trip duration by age, bike utilization and top NYC starting and ending locations were depicted in the configured Dashboard above (FIGURE:1).
+The purpose of this analysis was to research and present the Citibike bike-sharing business proposal visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in Des Moines, Iowa. In total there were 2,344,224 trips for the month of August in 2019. Average trip duration by age, bike utilization and top NYC starting and ending locations were depicted in the configured Dashboard above (FIGURE:1). Further Analysis was requested to include:
+- the length of time the bikes are checked out for all riders and genders
+- the number of bike trips for all riders and genders for each hour of each day of the week
+- the number of bike trips for each type of user and gender for each day of the week
+- additional visualizations were included at the end for gender subset totals, usertype and times of popularity
 
 _______________________________________________________________
 ***RESULTS***
@@ -51,7 +55,7 @@ In FIGURE: 3, the length of time the bikes were checked out for all of the rider
 
                                    FIGURE 4: Line Charts for Checkout Times by Gender
 
-A further breakdown of data exhibited that males had significantly more checkouts than the others, as well as longer checkout times (FIGURE: 4).
+A further breakdown of data exhibited that males had significantly more checkouts than the other gender subsets, as well as longer checkout times (FIGURE: 4).
 
 <img width="1440" alt="D2:Trips:Weekday Per Hour" src="https://user-images.githubusercontent.com/90135381/152699025-88502b9f-c841-4157-9c7a-cf9a6cb6bfeb.png">
 
@@ -87,7 +91,7 @@ As illustrated in FIGURE: 8, peak hours are 8AM and between 4 and 7PM, while non
 
                                   FIGURE 9: Pie Chart for Rides by Gender
                                   
-The pie chart in FIGURE: 9 clearly portrays predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly those of unknown gender (225,521).
+The pie chart in FIGURE: 9 clearly portrays significantly and predominantly greater numbers of male riders (1,530,272), followed by female riders (588,431) and, lastly those of unknown gender (225,521).
 
 <img width="1440" alt="Usertype Usage" src="https://user-images.githubusercontent.com/90135381/152700152-ca07cc9b-80d8-4f44-b6ff-f65d884861e7.png">
 
@@ -99,6 +103,6 @@ ______________
 ***SUMMARY***
 ______________
 
-In conclusion, as depicted above, it can be ascertained that of the 2,344,224 trips males predominated the bike-sharing service utilization. 
+In conclusion, as depicted above, it can be ascertained that implementing a bike-sharing business in Des Moines can be a successful endeavour. To summarize, there were a total of of the 2,344,224 trips in August, 2019; males predominated the bike-sharing service utilization; peak hours were morning and evening with Thursday being the most popular day for utilization. To make this business more lucrative, incentives can be provided for greater female participation. Additionally, a 'family day' proposal can be suggested to increase rider usage on weekends.
 _____________________________________________________________________________________________________
 ***REFERENCES*** BSC, Google, StackOverflow, GitHub
