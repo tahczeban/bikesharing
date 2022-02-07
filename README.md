@@ -20,7 +20,7 @@ For complete Tableau story interactivity, please visit the following Citibike_Ch
 
                                  FIGURE 1: Dashboard of NYC Citibike Info
 
-The purpose of this analysis was to research and present the Citibike Bike-sharing business visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in Des Moines, Iowa. In total there were 2,344,224 trips for the month of August in 2019. Of those, 1,900,359 were bikesharing subscribers and 443,865 were customers. Average trip duration by age, bike utilization and top NYC starting and ending locations were depicted in the configured Dashboard (FIGURE:1).
+The purpose of this analysis was to research and present the Citibike bike-sharing business proposal visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in Des Moines, Iowa. In total there were 2,344,224 trips for the month of August in 2019. Average trip duration by age, bike utilization and top NYC starting and ending locations were depicted in the configured Dashboard above (FIGURE:1).
 
 _______________________________________________________________
 ***RESULTS***
@@ -33,7 +33,7 @@ _______________________________________________________________
                             
                                   FIGURE 2: Pandas Trip Duration Time Change
                                   
-Initial code was written in Pandas to convert the data from integer to datetime to obtain the hours, minutes and seconds for the trip durations (FIGURE: 2). This data was then exported as a CSV file to Tableau Public, in order to create the required trip analysis and subsequent visualizations for presentation in a new CSV file.
+Initial code was written in Pandas to convert the data from integer to datetime to obtain the hours, minutes and seconds for the trip durations (FIGURE: 2). This data was then exported as a CSV file to Tableau Public, in order to create the required trip analysis and subsequent visualizations for presentation via a new CSV file.
 
 
 
@@ -44,32 +44,32 @@ Initial code was written in Pandas to convert the data from integer to datetime 
 
                                    FIGURE 3: Line Chart for Checkout Times for Users
                                    
-In FIGURE: 3, the length of time the bikes were checked out for all of the riders was generated, illustrating that most of the times were under one hour. 
+In FIGURE: 3, the length of time the bikes were checked out for all of the riders was generated, illustrating that most of the times were under one hour for trip duration. 
 
 
 <img width="1440" alt="D2:Checkout Times by Gender" src="https://user-images.githubusercontent.com/90135381/152699014-bbc8c905-d1ec-4fc2-ba69-7fdc91d929c6.png">
 
                                    FIGURE 4: Line Charts for Checkout Times by Gender
 
-A further breakdown of data exhibited that males had significantly more checkouts than the others, as well as longer checkout times.
+A further breakdown of data exhibited that males had significantly more checkouts than the others, as well as longer checkout times (FIGURE: 4).
 
 <img width="1440" alt="D2:Trips:Weekday Per Hour" src="https://user-images.githubusercontent.com/90135381/152699025-88502b9f-c841-4157-9c7a-cf9a6cb6bfeb.png">
 
                                   FIGURE 5: Heatmap of Trips by Weekday for Each Hour
 
-The heatmap above visualizes the number of bike trips by weekday for each hour of the day (FIGURE: 5). This shows that Thursday has the mostconcentrated trips and the most popular times are between 6-10 AM, 5-8 PM on weekdays and 8AM to 8 PM on weekends, to a lesser extent.
+The heatmap above visualizes the number of bike trips by weekday for each hour of the day (FIGURE: 5). This shows that Thursday has the most concentrated number of trips generally. The most popular times are between 6-10AM, 5-8PM on weekdays and 8AM to 8PM on weekends; howwever, to a lesser extent.
 
 <img width="1440" alt="D2:Trips:Gender:Weekday:Hour" src="https://user-images.githubusercontent.com/90135381/152699041-629fbd19-0172-41fb-b070-db0f511b537a.png">
 
                                   FIGURE 6: Heatmap of Trips by Gender (Weekday per Hour)
                                   
-In the heatmap depicted in FIGURE: 6, it can be seen that males are highest users during peak hours, followed by females and unlknown gender users.
+In the heatmap depicted in FIGURE: 6, it can be seen that males are the highest users during peak hours, followed by females and unknown gender users. Again, Thursday and early morning, evening being the most popular times for ride-sharing participation.
 
 <img width="1440" alt="D2:User Trips:Gender:Weekday" src="https://user-images.githubusercontent.com/90135381/152699042-12a94f43-35ec-4408-9a26-eed4f63a058b.png">
 
                                   FIGURE 7: User Trips by Gender by Weekday
                                 
-The number of bike trips was firther analyzed including gender and usertype. Male subscribers are significantly more participatory in general; however, weekdays, particularly Thursday show greater activity.
+The number of bike trips was further analyzed including gender and usertype. Male subscribers are significantly more participatory in general; however, weekdays, particularly Thursday show the greatest concentration of activity.
 
 
 ***DELIVERABLE 3: Story and Report for Final Presentation***
@@ -79,7 +79,7 @@ The number of bike trips was firther analyzed including gender and usertype. Mal
 
                                   FIGURE 8: Horizontal Bar Chart for August Peak Hours
                                   
-Peak hours are 8 AM and between 4 and 7 PM, while non-peak hours fall between 1-5 AM
+As illustrated in FIGURE: 8, peak hours are 8AM and between 4 and 7PM, while non-peak hours fall between 1-5 AM.
 
 
 <img width="1440" alt="Rides by Gender" src="https://user-images.githubusercontent.com/90135381/152699687-13838fdd-8cea-4816-883b-e51040fdd14a.png">
@@ -87,12 +87,13 @@ Peak hours are 8 AM and between 4 and 7 PM, while non-peak hours fall between 1-
 
                                   FIGURE 9: Pie Chart for Rides by Gender
                                   
-The pie chart in FIGURE: 9 clearly portrays predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly unknown gender (225,521).
+The pie chart in FIGURE: 9 clearly portrays predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly those of unknown gender (225,521).
 
 <img width="1440" alt="Usertype Usage" src="https://user-images.githubusercontent.com/90135381/152700152-ca07cc9b-80d8-4f44-b6ff-f65d884861e7.png">
 
                                    FIGURE 10: Bar Chart for Usertype Usage
                                    
+Figure 10, is an additional illustration of subscriber versus customer utilization. Out of the total number of ride-shares, 1,900,359 were bikesharing subscribers and 443,865 were customers.
 
 ______________
 ***SUMMARY***
