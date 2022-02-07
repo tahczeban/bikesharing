@@ -20,10 +20,9 @@ ______________
 
                                  FIGURE 1: Dashboard of NYC Citibike Info
 
-The purpose of this analysis was to research and present the Citibike Bike-sharing business visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in des Moines, Iowa. In total there were 2,344,224 trips for the month of August. Of those, 1,900,359 were bikesharing subscribers and 443,865 were customers. Average trip duration by age, bike utilization and top NYC starting and ending locations were depicted in the configured Dashboard (FIGURE:1).
+The purpose of this analysis was to research and present the Citibike Bike-sharing business visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in Des Moines, Iowa. In total there were 2,344,224 trips for the month of August in 2019. Of those, 1,900,359 were bikesharing subscribers and 443,865 were customers. Average trip duration by age, bike utilization and top NYC starting and ending locations were depicted in the configured Dashboard (FIGURE:1).
 trip duration approximately 5-6 hours
-predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly unknown gender (225,521)
-Thursday between 5-7 is peak ride-sharing time
+
 _______________________________________________________________
 ***RESULTS***
 _______________________________________________________________
@@ -59,15 +58,19 @@ In FIGURE: 3, the length of time the bikes were checked out for all of the rider
 
                                   FIGURE 5: Heatmap of Trips by Weekday for Each Hour
 
-
+6-10, 5-8 weekdays and 5-10 on weekends
 
 <img width="1440" alt="D2:Trips:Gender:Weekday:Hour" src="https://user-images.githubusercontent.com/90135381/152699041-629fbd19-0172-41fb-b070-db0f511b537a.png">
 
                                   FIGURE 6: Heatmap of Trips by Gender (Weekday per Hour)
+                                  
+Males are highest useres during peak hours
 
 <img width="1440" alt="D2:User Trips:Gender:Weekday" src="https://user-images.githubusercontent.com/90135381/152699042-12a94f43-35ec-4408-9a26-eed4f63a058b.png">
 
                                   FIGURE 7: User Trips by Gender by Weekday
+                                  
+Males subscribers
 
 
 ***DELIVERABLE 3: Story and Report for Final Presentation***
@@ -76,17 +79,22 @@ In FIGURE: 3, the length of time the bikes were checked out for all of the rider
 <img width="1440" alt="August Peak Hours" src="https://user-images.githubusercontent.com/90135381/152698997-c3327aa0-ec31-4831-8b20-51dfd16a2233.png">
 
                                   FIGURE 8: Horizontal Bar Chart for August Peak Hours
+                                  
+Peak hours are, while non-peak hours fall between 1-5 AM
 
 
 <img width="1440" alt="Rides by Gender" src="https://user-images.githubusercontent.com/90135381/152699687-13838fdd-8cea-4816-883b-e51040fdd14a.png">
 
 
                                   FIGURE 9: Pie Chart for Rides by Gender
+                                  
+predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly unknown gender (225,521)
 
 <img width="1440" alt="Usertype Usage" src="https://user-images.githubusercontent.com/90135381/152700152-ca07cc9b-80d8-4f44-b6ff-f65d884861e7.png">
 
                                    FIGURE 10: Bar Chart for Usertype Usage
                                    
+Thursday between 5-7 is peak ride-sharing time
 ______________
 ***SUMMARY***
 ______________
