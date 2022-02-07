@@ -37,12 +37,16 @@ _______________________________________________________________
                                   
 Initial code was written in Pandas to convert the data from integer to datetime to obtain the hours, minutes and seconds for the trip durations (FIGURE: 2). This data was then exported as a CSV file to Tableau Public, in order to create the required trip analysis and subsequent visualizations for presentation in a new CSV file.
 
+
+
 ***DELIVERABLE 2: Visualizations for the Trip Analysis***
 
 <img width="1440" alt="D2: Checkout Times for Users" src="https://user-images.githubusercontent.com/90135381/152699010-4a1cc073-f71b-4774-82bd-6d1c17e04e4e.png">
 
 
                                    FIGURE 3: Line Chart for Checkout Times for Users
+                                   
+In FIGURE: 3, the length of time the bikes were checked out for all of the riders was generated, issustrating that most of the times were under one hour. 
 
 
 <img width="1440" alt="D2:Checkout Times by Gender" src="https://user-images.githubusercontent.com/90135381/152699014-bbc8c905-d1ec-4fc2-ba69-7fdc91d929c6.png">
