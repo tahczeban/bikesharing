@@ -20,9 +20,7 @@ ______________
 
                                  FIGURE 1: Dashboard of NYC Citibike Info
 
-The purpose of this analysis was to research and present the Citibike Bike-sharing business visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in des Moines, Iowa. 
-2,344,224 trips in August
-1,900,359 are subscribers and 443,865 are  customers
+The purpose of this analysis was to research and present the Citibike Bike-sharing business visualizations in NYC to the stakeholders, in order to check the feasibility of implementing same in des Moines, Iowa. In total there were 2,344,224 trips for the month of August. Of those, 1,900,359 were bikesharing subscribers and 443,865 were customers. Average trip duration by age, bike utilization and top NYC starting and ending locations were depicted in the configured Dashboard (FIGURE:1).
 trip duration approximately 5-6 hours
 predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly unknown gender (225,521)
 Thursday between 5-7 is peak ride-sharing time
