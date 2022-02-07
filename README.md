@@ -35,7 +35,7 @@ _______________________________________________________________
                             
                                   FIGURE 2: Pandas Trip Duration Time Change
                                   
-Initial code was written in Pandas to convert the data from integer to datetime to obtain the hours and minutes for the trip durations. 
+Initial code was written in Pandas to convert the data from integer to datetime to obtain the hours, minutes and seconds for the trip durations (FIGURE: 2). This data was then exported as a CSV file to Tableau Public, in order to create the required trip analysis and subsequent visualizations for presentation in a new CSV file.
 
 ***DELIVERABLE 2: Visualizations for the Trip Analysis***
 
