@@ -13,7 +13,7 @@ Software: Tableau Public, Anaconda/Pandas, Python, Jupyter, VSC
 ______________
 ***OVERVIEW***
 ______________
-For complete story interactivity, please visit the Citibike_Challenge link below: 
+For complete Tableau story interactivity, please visit the following Citibike_Challenge link: 
 [link to Citibike_Challenge](https://public.tableau.com/app/profile/tanya.czeban/viz/Citibike_Challenge_16441767677530/D3CitibikeStory?publish=yes "link to Citibike_Challenge")
 
 <img width="1440" alt="Intro Generalized NYC Info" src="https://user-images.githubusercontent.com/90135381/152699136-f474c13a-86b3-4b80-a125-cbef2022af84.png">
@@ -44,32 +44,32 @@ Initial code was written in Pandas to convert the data from integer to datetime 
 
                                    FIGURE 3: Line Chart for Checkout Times for Users
                                    
-In FIGURE: 3, the length of time the bikes were checked out for all of the riders was generated, issustrating that most of the times were under one hour. 
+In FIGURE: 3, the length of time the bikes were checked out for all of the riders was generated, illustrating that most of the times were under one hour. 
 
 
 <img width="1440" alt="D2:Checkout Times by Gender" src="https://user-images.githubusercontent.com/90135381/152699014-bbc8c905-d1ec-4fc2-ba69-7fdc91d929c6.png">
 
                                    FIGURE 4: Line Charts for Checkout Times by Gender
 
-
+A further breakdown of data exhibited that males had significantly more checkouts than the others, as well as longer checkout times.
 
 <img width="1440" alt="D2:Trips:Weekday Per Hour" src="https://user-images.githubusercontent.com/90135381/152699025-88502b9f-c841-4157-9c7a-cf9a6cb6bfeb.png">
 
                                   FIGURE 5: Heatmap of Trips by Weekday for Each Hour
 
-6-10, 5-8 weekdays and 5-10 on weekends
+The heatmap above visualizes the number of bike trips by weekday for each hour of the day (FIGURE: 5). This shows that Thursday has the mostconcentrated trips and the most popular times are between 6-10 AM, 5-8 PM on weekdays and 8AM to 8 PM on weekends, to a lesser extent.
 
 <img width="1440" alt="D2:Trips:Gender:Weekday:Hour" src="https://user-images.githubusercontent.com/90135381/152699041-629fbd19-0172-41fb-b070-db0f511b537a.png">
 
                                   FIGURE 6: Heatmap of Trips by Gender (Weekday per Hour)
                                   
-Males are highest useres during peak hours
+In the heatmap depicted in FIGURE: 6, it can be seen that males are highest users during peak hours, followed by females and unlknown gender users.
 
 <img width="1440" alt="D2:User Trips:Gender:Weekday" src="https://user-images.githubusercontent.com/90135381/152699042-12a94f43-35ec-4408-9a26-eed4f63a058b.png">
 
                                   FIGURE 7: User Trips by Gender by Weekday
-                                  
-Males subscribers
+                                
+The number of bike trips was firther analyzed including gender and usertype. Male subscribers are significantly more participatory in general; however, weekdays, particularly Thursday show greater activity.
 
 
 ***DELIVERABLE 3: Story and Report for Final Presentation***
@@ -87,7 +87,7 @@ Peak hours are 8 AM and between 4 and 7 PM, while non-peak hours fall between 1-
 
                                   FIGURE 9: Pie Chart for Rides by Gender
                                   
-The pie chart in FIGURE: 9 clearly portrays predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly unknown gender (225,521)
+The pie chart in FIGURE: 9 clearly portrays predominantly male riders (1,530,272), followed by female riders (588,431) and, lastly unknown gender (225,521).
 
 <img width="1440" alt="Usertype Usage" src="https://user-images.githubusercontent.com/90135381/152700152-ca07cc9b-80d8-4f44-b6ff-f65d884861e7.png">
 
