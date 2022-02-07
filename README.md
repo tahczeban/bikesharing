@@ -9,24 +9,27 @@ Data Source:201908-citibike-tripdata.csv, Citibike2
 
 Software: Tableau Public, Anaconda, Python, Jupyter, VSC
 
+
+______________
 ***OVERVIEW***
 ______________
-
 
 [link to Citibike_Challenge] https://public.tableau.com/app/profile/tanya.czeban/viz/Citibike_Challenge_16441767677530/UsertypeUsage?publish=yes
 
 
 <img width="1440" alt="Intro Generalized NYC Info" src="https://user-images.githubusercontent.com/90135381/152699136-f474c13a-86b3-4b80-a125-cbef2022af84.png">
 
+                                   FIGURE 1: Dashboard of NYC Citibike Info
 
+The purposr of this analysis was to 
 
-
+_______________________________________________________________
 ***DELIVERABLE 1: Change Trip Duration to a Datetime Format***
 _______________________________________________________________
 
 <img width="1440" alt="D1:Trip duration Time Change" src="https://user-images.githubusercontent.com/90135381/152699006-3a690f15-1d35-40f3-906d-b9290cbc0af3.png">
 
-
+_________________________________________________________
 ***DELIVERABLE 2: Visualizations for the Trip Analysis***
 _________________________________________________________
 
@@ -49,7 +52,7 @@ _________________________________________________________
 
 <img width="1440" alt="D2:User Trips:Gender:Weekday" src="https://user-images.githubusercontent.com/90135381/152699042-12a94f43-35ec-4408-9a26-eed4f63a058b.png">
 
-
+_____________________________________________________________
 ***DELIVERABLE 3: Story and Report for Final Presentation***
 _____________________________________________________________
 
