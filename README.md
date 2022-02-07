@@ -7,21 +7,20 @@ ______________
 
 Data Source:201908-citibike-tripdata.csv, Citibike2
 
-Software: Tableau Public, Anaconda, Python, Jupyter, VSC
+Software: Tableau Public, Anaconda/Pandas, Python, Jupyter, VSC
 
 
 ______________
 ***OVERVIEW***
 ______________
 
-[link to Citibike_Challenge] https://public.tableau.com/app/profile/tanya.czeban/viz/Citibike_Challenge_16441767677530/UsertypeUsage?publish=yes
-
+[link to Citibike_Challenge](https://public.tableau.com/app/profile/tanya.czeban/viz/Citibike_Challenge_16441767677530/D3CitibikeStory?publish=yes "link to Citibike_Challenge")
 
 <img width="1440" alt="Intro Generalized NYC Info" src="https://user-images.githubusercontent.com/90135381/152699136-f474c13a-86b3-4b80-a125-cbef2022af84.png">
 
                                    FIGURE 1: Dashboard of NYC Citibike Info
 
-The purposr of this analysis was to 
+The purpose of this analysis was to present the Citibike Bike-sharing business visualizationsin NYC to the stakeholders, in order to check the feasibility of implementing same in des Moines, Iowa. 
 
 _______________________________________________________________
 ***DELIVERABLE 1: Change Trip Duration to a Datetime Format***
